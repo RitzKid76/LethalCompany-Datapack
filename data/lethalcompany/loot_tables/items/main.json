@@ -1,0 +1,361 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "air_horn",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 3
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "bottles",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 19
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "candy",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 2
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "cash_register",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 3
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "clown_horn",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 3
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "cookie_mold_pan",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 5
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "dustpan",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 32
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "egg_beater",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "flask",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 42
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "gift",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 17
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "gold_bar",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 1
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "homemade_flashbang",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 22
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "jar_of_pickles",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 10
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "large_axle",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 80
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "large_bolt",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 80
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "laser_pointer",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 4
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "metal_sheet",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 88
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "plastic_fish",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 12
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "steering_wheel",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 32
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "v-type_engine",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 90
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "wedding_ring",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 3
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:command_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "custom_data": {
+                                    "type": "yield_sign",
+                                    "item_spawner": 1
+                                }
+                            }
+                        }
+                    ],
+                    "weight": 6
+                }
+            ]
+        }
+    ]
+}

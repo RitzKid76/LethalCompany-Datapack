@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "lethalcompany:init",
+        "extras:package/add"
+    ]
+}

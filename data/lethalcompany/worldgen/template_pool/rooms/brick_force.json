@@ -1,0 +1,77 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/all",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 4
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/t",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 3
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/i",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/l",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/large/all",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/large/k",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/large/t",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 1
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "lethalcompany:rooms/brick/large/l",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 1
+        }
+    ]
+}

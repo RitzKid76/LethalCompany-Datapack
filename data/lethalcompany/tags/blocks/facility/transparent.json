@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#lethalcompany:facility/pipes",
+        "#lethalcompany:facility/catwalk",
+        "#lethalcompany:facility/railings",
+        "#lethalcompany:can_walk_through",
+        "minecraft:polished_blackstone_button"
+    ]
+}

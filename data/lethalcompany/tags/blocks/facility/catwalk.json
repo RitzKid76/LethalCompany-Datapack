@@ -1,0 +1,12 @@
+{
+    "values": [
+        "minecraft:spruce_trapdoor",
+        "minecraft:acacia_trapdoor",
+        "minecraft:dark_oak_trapdoor",
+        "minecraft:oak_trapdoor",
+        "minecraft:birch_trapdoor",
+        "minecraft:waxed_exposed_cut_copper_stairs",
+        "minecraft:waxed_cut_copper_stairs",
+        "minecraft:waxed_weathered_cut_copper_stairs"
+    ]
+}

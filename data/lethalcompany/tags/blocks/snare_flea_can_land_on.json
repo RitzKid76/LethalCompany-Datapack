@@ -1,0 +1,9 @@
+{
+    "values": [
+        "#lethalcompany:facility/catwalk",
+        "#lethalcompany:facility/brick",
+        "#lethalcompany:facility/concrete",
+        "#lethalcompany:facility/metal",
+        "#lethalcompany:facility/wood"
+    ]
+}

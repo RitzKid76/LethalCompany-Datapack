@@ -1,0 +1,7 @@
+{
+    "effects": "hurt",
+    "message_id": "enemies.turret",
+    "death_message_type": "default",
+    "exhaustion": 0,
+    "scaling": "never"
+}
